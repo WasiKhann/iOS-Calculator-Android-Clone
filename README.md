@@ -4,4 +4,4 @@ Application Development Course Assignment 2 Submission
 
 iOS calculator app state managed by provider.
 
-![Working Screenshot](Working screenshot.png)
+![Working Screenshot](Working_screenshot.png)
