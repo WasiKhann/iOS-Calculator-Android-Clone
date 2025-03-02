@@ -1,6 +1,6 @@
-# assg2_calculator
+# iOS Calculator Android Clone
 
-Application Development Course Assignment 2 Submission
+An android clone for the default iOS calculator app.
 
 iOS calculator app state managed by provider.
 
